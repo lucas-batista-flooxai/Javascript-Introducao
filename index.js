@@ -60,10 +60,33 @@
 // const resultado = calc(1, 2, "-")
 // console.log(resultado)
 
-window.addEventListener('focus', event => { 
-    console.log('focus')
-})
+// window.addEventListener('focus', event => {
+//     console.log('focus')
+// })
 
-document.addEventListener('click', even => {
-    console.log('click')
-})
+// document.addEventListener('click', even => {
+//     console.log('click')
+// })
+
+// let agora = new Date()
+
+// console.log(agora)
+
+// const elementos = ["uno", "fiat", "outro carro", true, 10, new Date, function () {}]
+// console.log(elementos)
+
+// elementos.forEach(function(value, index) {
+//     console.log(index, value)
+// })
+
+// let celular = function () {
+//   this.color = "prata ";
+
+//   this.ligar = function () {
+//     console.log("uma ligação");
+//   };
+// };
+
+// let objeto = new celular();
+
+// console.log(objeto.ligar());
